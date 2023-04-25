@@ -1,4 +1,4 @@
-# friends
+# friends community app
 
 A new Flutter project.
 
